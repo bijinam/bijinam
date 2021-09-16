@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Bijina Maharjan
+- 👀 I’m interested in web designing and developing
+- 🌱 I’m currently learning web developing
